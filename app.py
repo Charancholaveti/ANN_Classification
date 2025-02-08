@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler,OneHotEncoder,LabelEncoder
 import pickle
 
 model=tf.keras.models.load_model('model.h5')
