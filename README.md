@@ -6,9 +6,9 @@ cd churn-classification-ann
 pip install -r requirements.txt
 ### Run the Jupyter Notebook
 jupyter notebook
-#### 🤝 Contributing
+### 🤝 Contributing
 Contributions are welcome! If you find any issues or want to improve the model, feel free to submit a pull request.
-#### ⭐ Acknowledgments
+### ⭐ Acknowledgments
 Inspired by real-world churn prediction problems.
 Special thanks to the open-source community for providing valuable datasets and frameworks
 
